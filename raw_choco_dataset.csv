@@ -1,0 +1,10 @@
+Product_ID,Product_Name,Category,Units_Sold,Price_per_Unit,Total_Revenue
+101,Dark Choco,Premium,100,2.5,250
+102,Milk choco,Regular,150,3.0,450
+103,White-Choco,Premium,200,2.0,400
+104,Dark Choco,Premium,250,2.5,625
+105,Dark Choco,Premium,300,2.5,750
+105,milk choco,Regular,150,3.0,450
+106,White Choco,premium,100,2.0,200
+107,milk choco,regular,150,3.0,450
+108,Milk choco,Regular,200,2.0,400
